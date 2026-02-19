@@ -129,4 +129,4 @@ python3 ~/.claude/plugins/academic-review-suite/scripts/providers.py
 
 ## License
 
-MIT
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) -- free to share and adapt with attribution, non-commercial use only.
