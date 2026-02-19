@@ -1,0 +1,7 @@
+{
+  "name": "academic-review-suite",
+  "version": "0.1.0",
+  "description": "Comprehensive pre-submission academic paper review: multi-LLM consensus, reference verification, and human-perception stress testing",
+  "license": "MIT",
+  "keywords": ["academic", "paper", "review", "submission", "research"]
+}
