@@ -109,7 +109,7 @@ def main():
     parser.add_argument("--health-check", action="store_true")
     args = parser.parse_args()
 
-    ptype = args.provider_type if args.provider_type != "openai_compatible" else "openai_compatible"
+    ptype = args.provider_type
 
     if args.health_check:
         result = health_check(ptype, args.api_key, args.model, args.base_url, timeout=min(args.timeout, 15))

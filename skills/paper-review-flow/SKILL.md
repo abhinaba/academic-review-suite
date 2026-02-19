@@ -1,7 +1,6 @@
 ---
 name: paper-review-flow
 description: Use when running the human-perception stage of paper review, providing the C/B/A three-stage funnel methodology for stress-testing papers from the human reader perspective
-version: 0.1.0
 ---
 
 # Paper Review Flow

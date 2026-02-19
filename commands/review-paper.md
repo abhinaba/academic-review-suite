@@ -1,6 +1,6 @@
 ---
 description: Comprehensive pre-submission academic paper review (multi-LLM + references + human perception)
-allowed-tools: Read, Write, Bash, Grep, Glob, AskUserQuestion, Task
+allowed-tools: [Read, Write, Bash, Grep, Glob, AskUserQuestion, Task]
 argument-hint: [paper-path] [--venue ACL] [--resume]
 ---
 
