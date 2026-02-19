@@ -8,6 +8,18 @@ Papers often pass methodology checks but fail human reviewers due to presentatio
 
 ## Install
 
+### From Marketplace
+
+```bash
+# Add the marketplace
+/plugin marketplace add abhinaba/claude-plugins
+
+# Install the plugin
+/plugin install academic-review-suite@abhinaba-plugins
+```
+
+### From GitHub (direct)
+
 ```bash
 claude plugin install abhinaba/academic-review-suite
 ```
